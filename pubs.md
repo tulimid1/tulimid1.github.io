@@ -16,4 +16,4 @@ layout: page
 
 ### 2019
 
-[Current Athletic Training Educational Preparation for Dry Needling](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1158&context=jsmahs)
+[Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). Current Athletic Training Educational Preparation for Dry Needling. Journal of Sports Medicine and Allied Health Sciences: Official Journal of the Ohio Athletic Trainers Association, 4(3), 5.](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1158&context=jsmahs)
