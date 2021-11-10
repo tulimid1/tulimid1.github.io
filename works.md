@@ -18,7 +18,7 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 Society for Neuroscience - Assessment of Stroke Damage - Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates.
 
-Society for the Neural Control of Movement - Proprioceptive accuracy to trial-to-trial changes in speed, direction, and length of movement. 
+Society for the Neural Control of Movement - Fundamentals of Motor Control - Proprioceptive accuracy to trial-to-trial changes in speed, direction, and length of movement. 
 
 ### 2018
 
