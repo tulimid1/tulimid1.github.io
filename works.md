@@ -22,10 +22,20 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ## Conferences
 
-2021
+#### 2021
 
-2020
+Society for Neuroscience - Assessment of Stroke Damage - Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates.
 
-2019
+Society for the Neural Control of Movement - Proprioceptive accuracy to trial-to-trial changes in speed, direction, and length of movement. 
+
+#### 2020
+
+#### 2019
+
+#### 2018
+
+Summer Scholars Symposium, Denison University. Title 
+
+
 
 
