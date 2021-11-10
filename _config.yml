@@ -1,6 +1,7 @@
 title: "Duncan Tulimieri"
 author: "Duncan Tulimieri"
-description: "University of Delaware\nDenison University"
+description: "University of Delaware\n\n\nDenison University"
+
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
