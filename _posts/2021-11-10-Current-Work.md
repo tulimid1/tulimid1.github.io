@@ -19,6 +19,10 @@ My current work focuses on proprioception after stroke. Proprioception is our bo
 
 # Assistive role
 
-I have had assistive roles on projects that explore multisensory integration and signal classification. 
+I have had assistive roles on many projects ranging from creating an algorithm to generate a random maze to classification of sensory data for pre-ambulatory children with cerebral palsy. 
 
+Maze generation 
+- This project was done in colloboration with Makenna Dixon, who was an undergraduate researcher in the lab. 
 
+Sensors-Quantifying Active vs. Sedentary Time During Floor Play in Pre-Ambulatory Children with Cerebral Palsy
+- This project was done by Julie Orlando and her colleagues. I simply helped with review and optimization of the code. 
