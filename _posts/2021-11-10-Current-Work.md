@@ -19,4 +19,6 @@ My current work focuses on proprioception after stroke. Proprioception is our bo
 
 # Assistive role
 
-I have had assistive roles on projects that explore multisensory integration and reliability of sensory data for pediatrics. 
+I have had assistive roles on projects that explore multisensory integration and signal classification. 
+
+
