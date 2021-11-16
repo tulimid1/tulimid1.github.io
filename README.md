@@ -7,7 +7,7 @@ layout: page
 ## Interests
 
 * Human behavior 
-* Data Analysis and Statistics 
+* Data analysis and statistics 
 * Creative and clever solutoins to seemingly impossible problems 
 
 ## Education
