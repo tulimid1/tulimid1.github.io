@@ -6,6 +6,10 @@ layout: page
 
 ## Interests
 
+* Human behavior 
+* Data Analysis and Statistics 
+* Creative and clever solutoins to seemingly impossible problems 
+
 ## Education
 
 PhD (current) in [Biomechanics and Movement Science](https://sites.udel.edu/bioms/)
