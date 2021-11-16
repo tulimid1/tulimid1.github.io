@@ -8,7 +8,7 @@ layout: page
 
 * Human behavior 
 * Data analysis and statistics 
-* Creative and clever solutoins to seemingly impossible problems 
+* Creative and clever solutions to seemingly impossible problems 
 
 ## Education
 
