@@ -7,6 +7,7 @@ layout: page
 ## Publications
 
 [Google Scholar Page](https://scholar.google.com/citations?user=dgXjBkMAAAAJ&hl=en&oi=ao)
+
 [MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/duncan.tulimieri.1/bibliography/public/)
 
 ### 2019
