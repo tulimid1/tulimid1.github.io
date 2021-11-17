@@ -1,6 +1,6 @@
 ---
-title: "Work"
-permalink: "/work/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
