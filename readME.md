@@ -9,6 +9,7 @@ layout: page
 * Human behavior 
 * Data analysis and statistics 
 * Creative and clever solutions to seemingly impossible problems 
+* Nature, pickles, Alaska
 
 ## Education
 
