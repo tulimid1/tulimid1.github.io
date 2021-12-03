@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 
-Here are links to some of the projects I have done. 
+Here are links to some of the projects I have done that I can share with the public. 
 
 ## 2021
 
