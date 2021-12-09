@@ -6,6 +6,8 @@ layout: page
 
 Here are links to some of the projects I have done that I can share with the public. 
 
+[Simulating scientific articles](https://github.com/tulimid1/Simulate-Papers)
+
 ## 2021
 
 [Saving figures and gifs](https://tulimid1.github.io/savingFigures_matlabPython/)
