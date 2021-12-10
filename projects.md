@@ -14,6 +14,6 @@ Here are links to some of the projects I have done that I can share with the pub
 
 [Dark background](https://tulimid1.github.io/darkBackground_matlab/)
 
-
+[Advanced Biomedical Experimental Design and Statistics](https://tulimid1.github.io/Advanced-Biomedical-Experimental-Design-and-Statistics-Python/)
 
 [Maze Generation Algorithm](https://tulimid1.github.io/Maze_Task/)
