@@ -10,7 +10,7 @@ Here are links to some of the projects I have done that I can share with the pub
 
 ## 2021
 
-[Saving figures and gifs](https://tulimid1.github.io/savingfigR/)
+[Saving figures and gifs](https://tulimid1.github.io/savingfigr/)
 
 [Dark background](https://tulimid1.github.io/darkBackground_matlab/)
 
