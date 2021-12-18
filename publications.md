@@ -20,10 +20,17 @@ Society for Neuroscience - Assessment of Stroke Damage - Determining the influen
 
 Society for the Neural Control of Movement - Fundamentals of Motor Control - Proprioceptive accuracy to trial-to-trial changes in speed, direction, and length of movement. 
 
+Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). *Impact of Block Order on Execution of Proprioceptive Matching Task* [Poster session]. University of Delaware Summer Scholars.  
+
+### 2020
+
+COVID
+
+### 2019
+
+Summer scholar poster (Anna faunce)
+
 ### 2018
 
-Summer Scholars Symposium, Denison University. Title 
-
-
-
+**Tulimieri, D. T.**, Hortz, B. V. (2018, September). *A Review of Dry Needling's Effects and Athletic Trainers Education Relative to Dry Needling Tasks* [Poster session]. Denison University Summer Scholars. 
 
