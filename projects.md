@@ -16,8 +16,8 @@ Here are links to some of the projects I have done that I can share with the pub
 
 [Advanced Biomedical Experimental Design and Statistics](https://tulimid1.github.io/Advanced-Biomedical-Experimental-Design-and-Statistics/)
 
-  [Cohen's d](https://tulimid1.github.io/cohens_d/)
+- [Cohen's d](https://tulimid1.github.io/cohens_d/)
   
-  [Common Language Effect Size](https://tulimid1.github.io/CLES/)
+- [Common Language Effect Size](https://tulimid1.github.io/CLES/)
 
 [Maze Generation Algorithm](https://tulimid1.github.io/Maze_Task/)
