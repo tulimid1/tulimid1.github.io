@@ -8,6 +8,12 @@ Here are links to some of the projects I have done that I can share with the pub
 
 [Simulating scientific articles](https://github.com/tulimid1/Simulate-Papers)
 
+## 2022
+
+[Plotting multiple histograms in an organized manner (MATLAB)](https://tulimid1.github.io/plotMultipleHists-matlab/)
+
+[Transferring multiple figures to one figure with multiple subplots](https://tulimid1.github.io/individualPlots2SubPlots-matlab/)
+
 ## 2021
 
 [Saving figures and gifs](https://tulimid1.github.io/savingfigR/)
