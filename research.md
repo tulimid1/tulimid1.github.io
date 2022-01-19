@@ -1,12 +1,14 @@
 ---
-title: "Publications"
-permalink: "/publications/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
 [Google Scholar Page](https://scholar.google.com/citations?user=dgXjBkMAAAAJ&hl=en&oi=ao)
 
 [MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/duncan.tulimieri.1/bibliography/public/)
+
+## Papers 
 
 ### 2019
 
