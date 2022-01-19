@@ -34,3 +34,9 @@ Summer scholar poster (Anna faunce)
 
 **Tulimieri, D. T.**, Hortz, B. V. (2018, September). *A Review of Dry Needling's Effects and Athletic Trainers Education Relative to Dry Needling Tasks* [Poster session]. Denison University Summer Scholars. 
 
+## Symposiums 
+
+### 2022
+
+**Tulimieri, D. T.** and Semrau, J. A. (2022, Febrauary 10). [*Arm and eye position matching task*.]() [KINARM User Knowledge Exchange]. 
+
