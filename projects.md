@@ -10,6 +10,8 @@ Here are links to some of the projects I have done that I can share with the pub
 
 ## 2022
 
+[Bootstrapping OLS parameters](https://github.com/tulimid1/OLS-bootstrap/blob/main/OLS-boot-sims.ipynb)
+
 [Plotting multiple histograms in an organized manner](https://tulimid1.github.io/plotMultipleHists-matlab/)
 
 [Transferring multiple figures to one figure with multiple subplots](https://tulimid1.github.io/individualPlots2SubPlots-matlab/)
