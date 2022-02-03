@@ -10,6 +10,7 @@ layout: page
 * Data analysis and statistics 
 * Creative and clever solutions to seemingly impossible problems 
 * Nature, pickles, Alaska
+* Retirement plan: part time professor at community college and part time horse farrier
 
 ## Education
 
