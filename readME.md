@@ -12,6 +12,11 @@ layout: page
 * Nature, pickles, Alaska
 * Retirement plan: part time professor at community college and part time horse farrier
 
+## Quotes I live by 
+
+* I have never met a problem I couldn't figure out, only problems that I ran out of time with.
+* There's no rest for the wicked. 
+
 ## Education
 
 PhD (current) in [Biomechanics and Movement Science](https://sites.udel.edu/bioms/), [University of Delaware](https://www.udel.edu/)
