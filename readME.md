@@ -16,6 +16,8 @@ layout: page
 
 * I have never met a problem I couldn't figure out, only problems that I ran out of time with.
 * There's no rest for the wicked. 
+* Time heals all wounds. 
+* This too shall pass. 
 
 ## Education
 
