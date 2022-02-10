@@ -40,5 +40,5 @@ Summer scholar poster (Anna faunce)
 
 ### 2022
 
-**Tulimieri, D. T.** and Semrau, J. A. (2022, Febrauary 10). [*Arm and eye position matching task*.]() [KINARM User Knowledge Exchange]. 
+**Tulimieri, D. T.** and Semrau, J. A. (2022, Febrauary 10). [*Measuring proprioceptive accuracy using limb and oculumotor output*.](https://vimeo.com/676091426) [KINARM User Knowledge Exchange]. 
 
