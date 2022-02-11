@@ -16,11 +16,15 @@ I am a full stack robotic rehabilitation researcher.
 
 ## Papers 
 
+---
+
 ### 2019
 
 Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Training Educational Preparation for Dry Needling](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1158&context=jsmahs). Journal of Sports Medicine and Allied Health Sciences: Official Journal of the Ohio Athletic Trainers Association, 4(3), 5.
 
 ## Conferences
+
+---
 
 ### 2021
 
@@ -43,6 +47,8 @@ Summer scholar poster (Anna faunce)
 **Tulimieri, D. T.**, Hortz, B. V. (2018, September). *A Review of Dry Needling's Effects and Athletic Trainers Education Relative to Dry Needling Tasks* [Poster session]. Denison University Summer Scholars. 
 
 ## Symposiums 
+
+---
 
 ### 2022
 
