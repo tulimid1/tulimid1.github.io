@@ -10,9 +10,15 @@ I am a full stack robotic rehabilitation researcher.
 
 ---
 
-[Google Scholar Page](https://scholar.google.com/citations?user=dgXjBkMAAAAJ&hl=en&oi=ao)
+Table of Contents:
 
-[MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/duncan.tulimieri.1/bibliography/public/)
+[Papers](#papers)
+
+[Conferences](#conferences)
+
+[Symposiums](#symposiums)
+
+---
 
 ## Papers 
 
