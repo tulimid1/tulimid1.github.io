@@ -4,7 +4,11 @@ permalink: "/research/"
 layout: page
 ---
 
+---
+
 I am a full stack robotic rehabilitation researcher. 
+
+---
 
 [Google Scholar Page](https://scholar.google.com/citations?user=dgXjBkMAAAAJ&hl=en&oi=ao)
 
