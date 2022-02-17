@@ -19,7 +19,7 @@ Hungry Duncan:
 * sushi, pizza, chicken wings 
 * jerk chicken, pho bo, pesto 
 
-Old Duncan: 
+Old man Duncan: 
 
 * Retirement plan: part time professor at community college and part time horse farrier
 
