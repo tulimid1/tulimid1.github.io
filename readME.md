@@ -6,15 +6,27 @@ layout: page
 
 ## Interests
 
+Nerd Duncan: 
+
 * Human behavior 
-* Data analysis and statistics 
-* Creative and clever solutions to seemingly impossible problems 
-* Nature, pickles, Alaska
+* Data analysis, statistics, and mathematics
+* Creating creative and clever solutions to seemingly impossible problems 
+* Mother Nature
+
+Hungry Duncan:
+
+* caprese salad, ramen, wine 
+* sushi, pizza, chicken wings 
+* jerk chicken, pho bo, pesto 
+
+Old Duncan: 
+
 * Retirement plan: part time professor at community college and part time horse farrier
 
 ## Quotes I live by 
 
 * I have never met a problem I couldn't figure out, only problems that I ran out of time with.
+* The best way to succeed is to fail.
 * There's no rest for the wicked. 
 * Time heals all wounds. 
 * This too shall pass. 
