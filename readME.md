@@ -18,6 +18,7 @@ Hungry Duncan:
 * caprese salad, ramen, wine 
 * sushi, pizza, chicken wings 
 * jerk chicken, pho bo, pesto 
+* gf banana bread, salmon risotto
 
 Old man Duncan: 
 
