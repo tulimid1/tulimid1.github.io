@@ -32,6 +32,10 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ---
 
+### 2022
+
+**Tulimieri, D. T.**, Semrau, J. A. (2021, April 15). [*Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates*.]() [Poster session]. University of Delaware College of Health Science Research Day. 
+
 ### 2021
 
 **Tulimieri, D. T.** and Semrau, J. A. (2021, November 10). [*Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates*.](https://vimeo.com/666477795) [Poster session]. Society for Neuroscience. 
