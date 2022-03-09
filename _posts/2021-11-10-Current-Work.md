@@ -23,6 +23,5 @@ Sensors-Quantifying Active vs. Sedentary Time During Floor Play in Pre-Ambulator
 
 Determining if block order matters
 - This task was done by Julia Gray under my guidance. The goal was to determine if the order of blocks during a proprioceptive robotic task mattered for our main outcome parameter.
-![image](https://user-images.githubusercontent.com/87193935/157351710-ed6d20e1-7ff0-480d-b9da-6907fa175da6.png)
 
 
