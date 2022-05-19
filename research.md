@@ -64,5 +64,5 @@ Summer scholar poster (Anna faunce)
 
 **Tulimieri, D. T.** and Semrau, J. A. (2022, Febrauary 10). [*Measuring proprioceptive accuracy using limb and oculumotor output*.](https://vimeo.com/676091426) [KINARM User Knowledge Exchange]. 
 
-**Tulimieri, D. T.** (2022, May 18). [*Integratina a peripheral with KINARM Exoskeleton*](https://vimeo.com/manage/videos/711802706) [KINARM Camp]. 
+**Tulimieri, D. T.** (2022, May 18). [*Integrating a peripheral with KINARM Exoskeleton*](https://vimeo.com/manage/videos/711802706) [KINARM Camp]. 
 
