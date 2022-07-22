@@ -44,22 +44,128 @@ My long term research interests involve the development of a comprehensive under
 **B. Positions and Honors** 
 
 <ins>**Positions and Employment**<ins>
+
+2020-        Research Assistant, Sensorimotor Control and Robotic Rehabilitation Laboratory, University of Delaware, Newark, DE
+
+2020-        Teaching Assistant, KINARM Camp
+  
+2019         Teaching Assistant, Motor Control and Learning, University of Delaware, Newark, DE
+  
+2018-2019    Undergraduate Researcher, Health, Exercise, and Sports Studies, Denison University, Granville, OH
+  
+2018         Summer Scholar Researcher, Denison University, Granville, OH
+  
+2018         Research Assistant, Denison University, Granville, OH
   
 <ins>**Other Experience and Professional Memberships**<ins>
   
+2022–     Member, American Society of Neurorehabilitation
+  
+2020–     Member, Society for Neuroscience
+  
+2020–     Programming Tutor, Pandemic Professors
+  
+2020–2021 Member, Society for the Neural Control of Movement
+  
+2018–2019 Department Fellow, Denison University
+  
+2018–2019 Student Faculty Learning Partnership Pilot Program, Denison University
+  
+2017–2019 Teaching Assistant, Denison University
+  
+2017–2019 Tutor, Denison University
+  
 <ins>**Honors**<ins>
+  
+2020      Graduate Collect Travel Award, University of Delaware
+  
+2019      Order of Omega, Denison University
+  
+2019      Men’s Ice Hockey ”55” Award, Denison University
+  
+2019      Natalie Shepard Physical Education Award, Denison University
+  
+2018      Livingston Memorial Scholarship, Denison University
+  
+2018–2019 Alpha Epsilon Delta, Denison University
   
 **C. Contribution to Science**
 
-1. **Undergraduate Research**: 
+1. **Undergraduate Research**: I was part of a project in collaboration with my main advisor, Dr. Brian Hortz at Denison University. Dr. Hortz was asked to investigate Athletic Trainers competencies for dry needling as a potential new treatment. During my time working with Dr. Hortz, I conducted a survey of many Athletic Trainers as well as investigating various proposed mechanisms for why dry needling had the impacted seen clinically<sup>1,2</sup>. This work was very exciting as it was my first encounter with approaching the edges of current human knowledge as well as understanding the process of how new treatment techniques are introduced into a clinicians practice. Soon after, Dr. Hortz took a position as a private consultant for a dry needling based company and has since been working with training clinicals how to dry needle as well as helping many professional sports team treat their players.
   
-2. **Graduate Research**: 
+2. **Graduate Research**: My ongoing predoctoral research is focused on proprioception, or the bodies awareness of its location and movement in space. The first part of my work focuses on assessment of proprioception<sup>a,c,d,e</sup> and the second part of my work focuses on refining these assessments as well as a training paradigm. The results from my research will assist researchers in broadening their understanding of proprioception, as well assist clinicians in understanding stroke’s effect on proprioception and potential assessments and treatments they can administer to help recovery. I have currently developed all of my projects and have finished collecting data for one of them. I have presented this work as it has been ongoing as well other guest lectures<sup>a,b,c,d</sup>. I plan to submit these results as the first author in the coming months.
+  
+a. **Tulimieri, D. T.** and Semrau, J. A. (2022, February 10). Measuring proprioceptive accuracy using limb and oculumotor output. [KINARM User Knowledge Exchange].
+  
+b. **Tulimieri, D. T.** (2022, May 18). Integrating a peripheral with KINARM Exoskeleton [KINARM Camp].
+  
+c. **Tulimieri, D. T.**, Semrau, J. A. (2021, April 15). Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates. [Poster session]. University of Delaware College of Health Science Research Day.
+  
+d. **Tulimieri, D. T.**, Faunce, A., Semrau, J. A. (2021, April 15). Proprioceptive accuracy to trial-by-trial changes in speed, direction, and length of movement. [Poster session]. Society for the Neural Control of Movement.
+  
+e. Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). Impact of Block Order on Execution of Proprioceptive Matching Task. [Poster session]. University of Delaware Summer Scholars.
   
 **D. Additional Information: Research Support and/or Scholastic Performance** 
   
 | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
 | | University of Delaware |   |
+2022 Mathematical Techniques in Data Science A
+2021 Biomedical Experimental Design and Analysis A
+2021 Machine Learning A-
+2020 Body and Space A
+2020 Introduction to Programming MATLAB A
+2020 Biomechanical Methods A
+2020 Neuromechanics of Human Motion A-
+2019 Applied Multivariate Data Analysis A
+2019 Sensorimotor Learning A
+2019 Brain and Behavior A
+2019 Calculus I B+
+
+Table 1. Graduate Scholastic Performance
   
+| YEAR | COURSE TITLE | GRADE | 
+| :--: | :----------: | :---: |
+| | Denison University |   |
+2019 Vertebrate Zoology B+
+2019 History/Philosophy of Health/Sport A-
+2019 Therapeutic Modalities A
+2019 Practicum S
+2019 Senior Research A
+2018 Practicum S
+2018 Youth Sports in America A-
+2018 Therapeutic Exercise in Athletic Training A+
+2018 Senior Research A
+2018 Introduction to Psychology A
+2018 Summer Research Scholar S
+2018 Freshwater Ecology A+
+2018 Ecosystem Ecology A
+2018 Film Aesthetics/Analysis B+
+2018 Directed Study A
+2018 Exercise Physiology A
+2017 Ecology and Evolution A-
+2017 Atoms and Molecules A-
+2017 Intro to Macroeconomics B+
+2017 Orthopedic/Illness Assessment A-
+2017 Denison Internship Program S
+2017 Multicellular Life B
+2017 The Novel: Greek to Gothic A-
+2017 Kinesiology B+
+2017 Issues in Feminism B+
+2016 Molecular Biological/Unicellular Life B
+2016 Introduction to Creative Writing B-
+2016 Intermediate French A-
+2016 Basic Athletic Training B
+2016 Beginning French II A
+2016 Elements of Statistics C
+2016 Applied Anatomy B-
+2016 People/Culture/Society A-
+2015 Advising Circles S
+2015 Beginning French I A-
+2015 Introduction to Music: Jazz B+
+2015 Personal and Community Health A
+2015 First-Year Writing Workshop B
+  
+Table 2: Undergraduate Scholastic Performance
 
 
