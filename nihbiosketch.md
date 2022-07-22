@@ -34,9 +34,9 @@ EDUCATION/TRAINING (*Begin with baccalaureate or other initial professional educ
 | Denison University       | B.A.                     | 05/2019                 | Major: Health, Exericse, and Sports Studies; Minor: Biology |
 | University of Delaware   | Ph.D.                    | 12/2023                 | Program: Biomechanics and Movement Science |
 
-** A. Personal Statement ** 
+**A. Personal Statement** 
 
-** B. Positions and Honors ** 
+**B. Positions and Honors** 
 
 <ins>**Positions and Employment**<ins>
   
@@ -44,13 +44,13 @@ EDUCATION/TRAINING (*Begin with baccalaureate or other initial professional educ
   
 <ins>**Honors**<ins>
   
-** C. Contribution to Science **
+**C. Contribution to Science**
 
 1. **Undergraduate Research**: 
   
 2. **Graduate Research**: 
   
-** D. Additional Information: Research Support and/or Scholastic Performance ** 
+**D. Additional Information: Research Support and/or Scholastic Performance** 
   
 | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
