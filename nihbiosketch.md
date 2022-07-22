@@ -110,61 +110,61 @@ e. Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). Im
 | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
 | | University of Delaware |   |
-2022 Mathematical Techniques in Data Science A
-2021 Biomedical Experimental Design and Analysis A
-2021 Machine Learning A-
-2020 Body and Space A
-2020 Introduction to Programming MATLAB A
-2020 Biomechanical Methods A
-2020 Neuromechanics of Human Motion A-
-2019 Applied Multivariate Data Analysis A
-2019 Sensorimotor Learning A
-2019 Brain and Behavior A
-2019 Calculus I B+
+| 2022 | Mathematical Techniques in Data Science | A |
+| 2021 | Biomedical Experimental Design and Analysis | A |
+| 2021 | Machine Learning | A- |
+| 2020 | Body and Space | A |
+| 2020 | Introduction to Programming MATLAB | A |
+| 2020 | Biomechanical Methods | A |
+| 2020 | Neuromechanics of Human Motion | A- |
+| 2019 | Applied Multivariate Data Analysis | A |
+| 2019 | Sensorimotor Learning | A |
+| 2019 | Brain and Behavior | A |
+| 2019 | Calculus I | B+ |
 
 Table 1. Graduate Scholastic Performance
   
 | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
 | | Denison University |   |
-2019 Vertebrate Zoology B+
-2019 History/Philosophy of Health/Sport A-
-2019 Therapeutic Modalities A
-2019 Practicum S
-2019 Senior Research A
-2018 Practicum S
-2018 Youth Sports in America A-
-2018 Therapeutic Exercise in Athletic Training A+
-2018 Senior Research A
-2018 Introduction to Psychology A
-2018 Summer Research Scholar S
-2018 Freshwater Ecology A+
-2018 Ecosystem Ecology A
-2018 Film Aesthetics/Analysis B+
-2018 Directed Study A
-2018 Exercise Physiology A
-2017 Ecology and Evolution A-
-2017 Atoms and Molecules A-
-2017 Intro to Macroeconomics B+
-2017 Orthopedic/Illness Assessment A-
-2017 Denison Internship Program S
-2017 Multicellular Life B
-2017 The Novel: Greek to Gothic A-
-2017 Kinesiology B+
-2017 Issues in Feminism B+
-2016 Molecular Biological/Unicellular Life B
-2016 Introduction to Creative Writing B-
-2016 Intermediate French A-
-2016 Basic Athletic Training B
-2016 Beginning French II A
-2016 Elements of Statistics C
-2016 Applied Anatomy B-
-2016 People/Culture/Society A-
-2015 Advising Circles S
-2015 Beginning French I A-
-2015 Introduction to Music: Jazz B+
-2015 Personal and Community Health A
-2015 First-Year Writing Workshop B
+| 2019 | Vertebrate Zoology | B+ |
+| 2019 | History/Philosophy of Health/Sport | A- |
+| 2019 | Therapeutic Modalities|  A |
+| 2019 | Practicum|  S |
+| 2019 | Senior Research|  A |
+| 2018 | Practicum|  S |
+| 2018 | Youth Sports in America | A- |
+| 2018 | Therapeutic Exercise in Athletic Training | A+ |
+| 2018 | Senior Research|  A |
+| 2018 | Introduction to Psychology|  A |
+| 2018 | Summer Research Scholar|  S |
+| 2018 | Freshwater Ecology | A+ |
+| 2018 | Ecosystem Ecology|  A |
+| 2018 | Film Aesthetics/Analysis | B+ |
+| 2018 | Directed Study|  A |
+| 2018 | Exercise Physiology|  A |
+| 2017 | Ecology and Evolution | A- |
+| 2017 | Atoms and Molecules | A- |
+| 2017 | Intro to Macroeconomics | B+ |
+| 2017 | Orthopedic/Illness Assessment | A- |
+| 2017 | Denison Internship Program|  S |
+| 2017 | Multicellular Life|  B |
+| 2017 | The Novel: Greek to Gothic | A- |
+| 2017 | Kinesiology | B+ |
+| 2017 | Issues in Feminism | B+ |
+| 2016 | Molecular Biological/Unicellular Life|  B |
+| 2016 | Introduction to Creative Writing | B- |
+| 2016 | Intermediate French | A- |
+| 2016 | Basic Athletic Training|  B |
+| 2016 | Beginning French II|  A |
+| 2016 | Elements of Statistics|  C |
+| 2016 | Applied Anatomy | B- |
+| 2016 | People/Culture/Society | A- |
+| 2015 | Advising Circles|  S |
+| 2015 | Beginning French I | A- |
+| 2015 | Introduction to Music: Jazz | B+ |
+| 2015 | Personal and Community Health|  A |
+| 2015 | First-Year Writing Workshop|  B |
   
 Table 2: Undergraduate Scholastic Performance
 
