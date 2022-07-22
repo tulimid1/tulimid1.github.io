@@ -1,2 +1,9 @@
+---
+title: "Biosketch"
+permalink: "/biosketch/"
+layout: page
+---
 
-My Biosketch
+---
+**BIOGRAPHICAL SKETCH**
+
