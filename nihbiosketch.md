@@ -32,7 +32,7 @@ EDUCATION/TRAINING (*Begin with baccalaureate or other initial professional educ
 | INSTITUTION AND LOCATION | DEGREE (*if applicable*) | Completion Date MM/YYYY | FIELD OF STUDY |
 | :----------------------: | :----------------------: | :---------------------: | :------------: |
 | Denison University       | B.A.                     | 05/2019                 | Major: Health, Exericse, and Sports Studies; Minor: Biology |
-| University of Delaware   | Ph.D.                    | 12/2023                 | Program: Biomechanics and Movement Science |
+| University of Delaware   | Ph.D.                    | TBD.                    | Program: Biomechanics and Movement Science |
 
 **A. Personal Statement** 
 
