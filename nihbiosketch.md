@@ -119,12 +119,12 @@ e. Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). Im
 | 2020 | Neuromechanics of Human Motion | A- |
 | 2019 | Applied Multivariate Data Analysis | A |
 | 2019 | Sensorimotor Learning | A |
-| 2019 | Brain and Behavior | A |
-| 2019 | Calculus I | B+ |
+<!-- | 2019 | Brain and Behavior | A |
+| 2019 | Calculus I | B+ | -->
 
 Table 1. Graduate Scholastic Performance
   
-| YEAR | COURSE TITLE | GRADE | 
+<!-- | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
 | | Denison University |   |
 | 2019 | Vertebrate Zoology | B+ |
@@ -166,6 +166,6 @@ Table 1. Graduate Scholastic Performance
 | 2015 | Personal and Community Health|  A |
 | 2015 | First-Year Writing Workshop|  B |
   
-Table 2: Undergraduate Scholastic Performance
+Table 2: Undergraduate Scholastic Performance -->
 
 
