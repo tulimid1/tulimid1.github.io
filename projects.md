@@ -10,7 +10,7 @@ Here are links to some of the projects I have done that I can share with the pub
 
 ## 2022
 
-[Moving an inset axis in MATLAB](https://tulimid1.github.io/movingInset/)
+[Moving an inset axis in MATLAB]([https://tulimid1.github.io/movingInset/](https://tulimid1.github.io/movingInset/MATLAB/))
 
 [Permutation Tests](https://tulimid1.github.io/permutation_testing/)
 
