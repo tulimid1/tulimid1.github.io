@@ -119,8 +119,6 @@ e. Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). Im
 | 2020 | Neuromechanics of Human Motion | A- |
 | 2019 | Applied Multivariate Data Analysis | A |
 | 2019 | Sensorimotor Learning | A |
-<!-- | 2019 | Brain and Behavior | A |
-| 2019 | Calculus I | B+ | -->
 
 Table 1. Graduate Scholastic Performance
 
