@@ -32,11 +32,11 @@ EDUCATION/TRAINING (*Begin with baccalaureate or other initial professional educ
 | INSTITUTION AND LOCATION | DEGREE (*if applicable*) | Completion Date MM/YYYY | FIELD OF STUDY |
 | :----------------------: | :----------------------: | :---------------------: | :------------: |
 | Denison University       | B.A.                     | 05/2019                 | Major: Health, Exericse, and Sports Studies; Minor: Biology |
-| University of Delaware   | Ph.D.                    | TBD.                    | Program: Biomechanics and Movement Science |
+| University of Delaware   | Ph.D.                    | TBD                    | Program: Biomechanics and Movement Science |
 
 **A. Personal Statement** 
 
-My long term research interests involve the development of a comprehensive understanding of how stroke effects movement and how to retrain movement post stroke. My academic training and research experience to date have provided me with an excellent background in movement science and neuroscience. While in high school I was a member of the National Honor Society, Science National Honor Society, French National Honor Society, and Math Honor Society. As an undergraduate at Denison University, I conducted research with Dr. Brian Hortz on the mechanisms and training of dry needling. This resulted in a co-authorship publication, as well as an invitation to present a poster at the Undergraduate Research Symposium<sup>1,2</sup>. For my graduate training at University of Delaware, I have moved into the fields of neuroscience and neurorehabilitation by studying the effects of stroke on proprioception, under Dr. Jennifer Semrau. Dr. Semrau is an internationally recognized leader in the field of sensorimotor control, specifically assessing proprioception. Along with giving me new conceptual and technical training, the proposed training plan outlines a set of career development activities and workshops – e.g. public speaking, literature analysis, robot programming, and mentoring options. I have developed most of the projects for my dissertation. These projects range from ameliorating current proprioceptive assessments to novel proprioceptive training paradigms, all using a robotic exoskeleton. Overall, I feel that my choice of sponsor, research project, and the training I will receive will give me a solid foundation for my long-term goal to become an effective scientist and professor.
+My long term research interests involve the development of a comprehensive understanding of how stroke effects movement and how to retrain movement post stroke. My academic training and research experience to date have provided me with an excellent background in movement science and neuroscience. While in high school I was a member of the National Honor Society, Science National Honor Society, French National Honor Society, and Math Honor Society. As an undergraduate at Denison University, I conducted research with Dr. Brian Hortz on the mechanisms of dry needling as well as Athletic Trainers competencies of dry needling. This resulted in a coauthorship publication, as well as an invitation to present a poster at the Undergraduate Research Symposium<sup>1,2</sup>. For my graduate training at University of Delaware, I have moved into the fields of neuroscience and neurorehabilitation by studying the effects of stroke on proprioception, under Dr. Jennifer Semrau. Dr. Semrau is an internationally recognized leader in the field of sensorimotor control, specifically assessing proprioception. Along with giving me new conceptual and technical training, the proposed training plan outlines a set of career development activities and workshops – e.g. public speaking, literature analysis, robot programming, and mentoring options. I have developed most of the projects for my dissertation. These projects range from ameliorating current proprioceptive assessments to novel proprioceptive training paradigms, all using a robotic exoskeleton. Overall, I feel that my choice of sponsor, research project, and the training I will receive will give me a solid foundation for my long-term goal to become an impactful scientist and professor.
 
   1. Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). Current athletic training educational preparation for dry needling. *Journal of Sports Medicine and Allied Health Sciences: Official Journal of the Ohio Athletic Trainers Association, 4*(3), 5.
   2. **Tulimieri, D. T.**, Hortz, B. V. (2018, September). A Review of Dry Needling’s Effects and Athletic Trainers Education Relative to Dry Needling Tasks [Poster session]. Denison University Summer Scholars.
@@ -45,9 +45,9 @@ My long term research interests involve the development of a comprehensive under
 
 <ins>**Positions and Employment**<ins>
 
-2020-        Research Assistant, Sensorimotor Control and Robotic Rehabilitation Laboratory, University of Delaware, Newark, DE
-
 2020-        Teaching Assistant, KINARM Camp
+
+2020-        Research Assistant, Sensorimotor Control and Robotic Rehabilitation Laboratory, University of Delaware, Newark, DE
   
 2019         Teaching Assistant, Motor Control and Learning, University of Delaware, Newark, DE
   
@@ -77,7 +77,7 @@ My long term research interests involve the development of a comprehensive under
   
 <ins>**Honors**<ins>
   
-2020      Graduate Collect Travel Award, University of Delaware
+2020      Graduate College Travel Award, University of Delaware
   
 2019      Order of Omega, Denison University
   
@@ -89,11 +89,11 @@ My long term research interests involve the development of a comprehensive under
   
 2018–2019 Alpha Epsilon Delta, Denison University
   
-**C. Contribution to Science**
+**C. Contributions to Science**
 
-1. **Undergraduate Research**: I was part of a project in collaboration with my main advisor, Dr. Brian Hortz at Denison University. Dr. Hortz was asked to investigate Athletic Trainers competencies for dry needling as a potential new treatment. During my time working with Dr. Hortz, I conducted a survey of many Athletic Trainers as well as investigating various proposed mechanisms for why dry needling had the impacted seen clinically<sup>1,2</sup>. This work was very exciting as it was my first encounter with approaching the edges of current human knowledge as well as understanding the process of how new treatment techniques are introduced into a clinicians practice. Soon after, Dr. Hortz took a position as a private consultant for a dry needling based company and has since been working with training clinicals how to dry needle as well as helping many professional sports team treat their players.
+1. **Undergraduate Research**: was part of a project in collaboration with my main advisor, Dr. Brian Hortz at Denison University. Dr. Hortz was asked to investigate Athletic Trainers competencies for dry needling as a potential new therapeutic modality. During my time working with Dr. Hortz, I conducted a survey of Athletic Trainers as well as investigating various proposed mechanisms for why dry needling had the effects seen clinically<sup>1,2</sup>. This work was very exciting as it was my first encounter with approaching the edges of current human knowledge as well as understanding the process of how new treatment techniques are introduced into a clinicians practice. Soon after, Dr. Hortz took a position as a private consultant for a dry needling based company and has since been training clinicians how to dry needle as well as consulting for many professional sports team.
   
-2. **Graduate Research**: My ongoing predoctoral research is focused on proprioception, or the bodies awareness of its location and movement in space. The first part of my work focuses on assessment of proprioception<sup>a,c,d,e</sup> and the second part of my work focuses on refining these assessments as well as a training paradigm. The results from my research will assist researchers in broadening their understanding of proprioception, as well assist clinicians in understanding stroke’s effect on proprioception and potential assessments and treatments they can administer to help recovery. I have currently developed all of my projects and have finished collecting data for one of them. I have presented this work as it has been ongoing as well other guest lectures<sup>a,b,c,d</sup>. I plan to submit these results as the first author in the coming months.
+2. **Graduate Research**: My ongoing predoctoral research is focused on proprioception, or the bodies awareness of its location and movement in space. The first part of my work focuses on assessment of proprioception<sup>a,c,d,e</sup> and the second part of my work focuses on refining these assessments as well as a proprioceptive training paradigm<sup>b</sup>. The results from my research will assist researchers in broadening their understanding of proprioception, as well as assist clinicians in understanding stroke’s effect on proprioception and potential assessments and treatments they can administer to maximize recovery. I have currently developed most of my projects and have finished collecting data for one of them. I have presented this work as it has been ongoing <sup>a,b,c,d</sup>. I plan to submit these results as the first author in the coming months.
   
 a. **Tulimieri, D. T.** and Semrau, J. A. (2022, February 10). Measuring proprioceptive accuracy using limb and oculumotor output. [KINARM User Knowledge Exchange].
   
@@ -123,6 +123,19 @@ e. Gray, J. **Tulimieri, D. T.**, Eskander, J., Semrau, J. A. (2021, August). Im
 | 2019 | Calculus I | B+ | -->
 
 Table 1. Graduate Scholastic Performance
+
+| YEAR | COURSE TITLE | OFFERED | 
+| :--: | :----------: | :---: |
+| 2022 | Statistical Rehthinking (partial) | Book |
+| 2022 | Advanced Python: Working with Databases | LinkedinLearning |
+| 2021 | Statistics for Data Science with Python | Cousera |
+| 2021 | Neuromatch Academy - Computational Neuroscience | Neuromatch Academy |
+| 2021 | Mastering Programming with MATLAB | Coursera |
+| 2020 | Mathematical Tools for Neural and Cognitive Science | New York University |
+| 2020 | Regression Models | Coursera |
+| 2019 | Introduction to Programming with MATLAB | Coursera |
+
+Table 2. Audited courses. 
   
 <!-- | YEAR | COURSE TITLE | GRADE | 
 | :--: | :----------: | :---: |
