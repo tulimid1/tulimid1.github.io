@@ -21,7 +21,7 @@ eRA COMMONS USER NAME (credential, e.g., agency login): NA
 
 ---
 
-POSITION TITLE: Graduate Student Research Assistant 
+POSITION TITLE: Graduate Student Research Assistant and ReproRehab Teaching Assistant 
 
 ---
 
@@ -44,6 +44,8 @@ My long term research interests involve the development of a comprehensive under
 **B. Positions and Honors** 
 
 <ins>**Positions and Employment**<ins>
+  
+2022-        Teaching Assistant, ReproRehab
 
 2020-        Teaching Assistant, KINARM Camp
 
