@@ -36,6 +36,8 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 **Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2022, November 14). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Poster session]. Society for Neuroscience.  
 
+Austin, D. S., Dixon, M., Hoh, J. E., **Tulimieri, D. T.**, Cashaback, J. G., Semrau, J. A. (2022, November 14). [Using a computerized tablet device to understand spatial precision and movement time of the uppper limbs in individuals who have had a stroke.]() [Poster session]. Society for Neuroscience.
+
 
 ### 2021
 
