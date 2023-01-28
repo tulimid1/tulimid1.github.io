@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "nihbiosketch.md"}
   - {file: "CV.md"}
   - {file: "projects.md"}
+  - {file: "freeduncan.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tulimid@udel.edu"}
