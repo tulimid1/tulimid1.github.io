@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:tulimid@udel.edu"}
   - {title: Github, icon: github, url: "https://github.com/tulimid1/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/duncan-tulimieri-756b99101"}
-  - {title: UpWork, icon: money-bill-trend-up, url: "https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1"}
+  - {title: UpWork, icon: money, url: "https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=dgXjBkMAAAAJ&hl=en&oi=ao"}
   - {title: Vimeo, icon: vimeo-v, url: "https://vimeo.com/user163681548"}
 
