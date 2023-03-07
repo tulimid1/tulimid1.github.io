@@ -24,6 +24,10 @@ Table of Contents:
 
 ---
 
+### 2023
+
+**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Experimental Brain Research - in review. 
+
 ### 2019
 
 Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Training Educational Preparation for Dry Needling](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1158&context=jsmahs). Journal of Sports Medicine and Allied Health Sciences: Official Journal of the Ohio Athletic Trainers Association, 4(3), 5.
