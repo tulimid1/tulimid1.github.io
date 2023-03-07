@@ -32,6 +32,12 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ---
 
+### 2023
+
+**Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2023, March 8). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Lightning Talk]. College of Health Sciences Research Day, University of Delaware. 
+
+**Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2023, March 8). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Poster session]. College of Health Sciences Research Day, University of Delaware. 
+
 ### 2022
 
 **Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2022, November 14). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Poster session]. Society for Neuroscience.  
