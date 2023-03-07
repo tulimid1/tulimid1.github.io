@@ -26,6 +26,10 @@ Table of Contents:
 
 ### 2023
 
+**Tulimieri, D.**, Singh, T., and Semrau, Jennifer A. (2023). [Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.](). In preparation. 
+
+**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates in individuals with stroke.](). In preparation. 
+
 **Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Experimental Brain Research - in review. 
 
 ### 2019
