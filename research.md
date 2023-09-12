@@ -28,9 +28,11 @@ Table of Contents:
 
 **Tulimieri, D.**, Singh, T., and Semrau, Jennifer A. (2023). [Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.](). In preparation. 
 
-**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Determining the influence of movement speed and distance on the accuracy of upper limb proprioceptive estimates in individuals with stroke.](). In preparation. 
+**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Impaired proprioception and magnified scaling of proprioceptive error responses in chronic stroke.](). Neurorehabilitation and Neural Repair - in review. 
 
-**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Experimental Brain Research - in review. 
+**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Frontiers in Human Neuroscience - in review. 
+
+Austin, D. S., Dixon, M. J., **Tulimieri, D. T.**, Cashaback, J. G., & Semrau, J. A. (2023). [Validating the measurement of upper limb sensorimotor behavior utilizing a tablet in neurologically intact controls and individuals with chronic stroke](https://link.springer.com/article/10.1186/s12984-023-01240-6). Journal of NeuroEngineering and Rehabilitation, 20(1), 114.
 
 ### 2019
 
@@ -41,6 +43,8 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 ---
 
 ### 2023
+
+**Tulimieri, D. T.**, Singh, T., Semrau, J. A. (2023, June). [*Oculomotor estimates of limb proprioception scale with magnitude of proprioceptive limb error in chronic stroke.*]() [Poster Presentation]. Progress in Clinical Motor Control II, Northwestern University. 
 
 **Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2023, March 8). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Podium Presentation]. College of Health Sciences Research Day, University of Delaware. 
 
