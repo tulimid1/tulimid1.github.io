@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "readME.md"}
   - {file: "research.md"}
   - {file: "nihbiosketch.md"}
-  - {file: "CV.md"}
+  - {file: "ResumeCV.md"}
   - {file: "projects.md"}
   - {file: "freeduncan.md"}
 
