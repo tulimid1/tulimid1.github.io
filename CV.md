@@ -1,6 +1,6 @@
 ---
 title: "Resume/CV"
-permalink: "/CV/"
+permalink: "/ResumeCV/"
 layout: page
 ---
 
