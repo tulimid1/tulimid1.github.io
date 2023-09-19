@@ -44,6 +44,8 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ### 2023
 
+**Tulimieri, D. T.** (2023, September). [*Virtual Environments to Improve Reproducibility*]() [Lightning Talk]. Reproducible Rehabilitation Research Summit - ReproRehab, University of Southern California. 
+
 **Tulimieri, D. T.**, Singh, T., Semrau, J. A. (2023, June). [*Oculomotor estimates of limb proprioception scale with magnitude of proprioceptive limb error in chronic stroke.*]() [Poster Presentation]. Progress in Clinical Motor Control II, Northwestern University. 
 
 **Tulimieri, D. T.**, Austin, D. A., Eskander, J., Singh, T., Semrau, J. A. (2023, March 8). [*Understanding the relationship between limb position sense and oculomotor proprioceptive estimations in individuals with stroke.*]() [Podium Presentation]. College of Health Sciences Research Day, University of Delaware. 
