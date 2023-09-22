@@ -32,7 +32,7 @@ Table of Contents:
 
 Austin, D. S., Dixon, M. J., Hoh, E. J., **Tulimieri, D. T.**, Cashaback, J. G., & Semrau, J. A. (2023). [Using a tablet to understand the spatial and temporal characteristics of complex upper limb movements in chronic stroke](). PLoS One - in review.
 
-**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Frontiers in Human Neuroscience - in review. 
+**Tulimieri, D.** and Semrau, Jennifer A. (2023). [Aging increases proprioceptive error for a broad range of movement speed and distance estimates in the upper limb.](). Frontiers in Human Neuroscience - Sensory Neuroscience - Accepted. 
 
 Austin, D. S., Dixon, M. J., **Tulimieri, D. T.**, Cashaback, J. G., & Semrau, J. A. (2023). [Validating the measurement of upper limb sensorimotor behavior utilizing a tablet in neurologically intact controls and individuals with chronic stroke](https://link.springer.com/article/10.1186/s12984-023-01240-6). Journal of NeuroEngineering and Rehabilitation, 20(1), 114.
 
