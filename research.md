@@ -46,6 +46,10 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ### 2023
 
+Decarie, A., **Tulimieri, D. T.**, Singh, T., Semrau, J. A. (2023, November). *Proprioceptive signaling of the upper limb influences oculomotor function and may suggest impaired multi-sesnsory integration after stroke* [Poster presentation]. Society for Neurosceince. 
+
+**Tulimieri, D. T.**, Kim, G., Sergi, F., Semrau, J. A. (2023, November). *Targeted training of proprioception using an integrated robotic-joystick approach improves sensorimotor function in chronic stroke* [Poster presentation]. Society for Neurosceince. 
+
 **Tulimieri, D. T.** (2023, September). *How to Use AI to be a Better Programmer* [Panelist]. Reproducible Rehabilitation Research Summit - ReproRehab, University of Southern California. 
 
 **Tulimieri, D. T.** (2023, September). *Virtual Environments to Improve Reproducibility* [Lightning Talk]. Reproducible Rehabilitation Research Summit - ReproRehab, University of Southern California. 
