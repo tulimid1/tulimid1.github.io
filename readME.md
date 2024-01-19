@@ -4,6 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
+## Personality
+
+[Beaver](https://knowandlove.com/beaver-school-result)
+
 ## Interests
 
 Nerd Duncan: 
