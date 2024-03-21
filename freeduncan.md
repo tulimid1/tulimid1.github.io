@@ -12,7 +12,7 @@ Here are links to some of the projects I have done as a freelancer on [UpWork](h
 
 [FinTech Algorithm Rewrite (MATLAB to Python)](https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1)
 
-> Lead rewrite of 9 MATLAB algorithms to Python with custom conda environment, git for version control, and Azure DevOps
+> Lead team with goal of rewriting 9 MATLAB algorithms to Python with custom conda environment, git for version control, and Azure DevOps
 
 [Consult on hiring of new software developers for FinTech Startup](https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1)
 
