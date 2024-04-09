@@ -26,7 +26,7 @@ Table of Contents:
 
 ### 2024
 
-**Tulimieri, D.T.**, Semrau, J.A. [Impaired proprioception and magnified scaling of proprioceptive error responses in chronic stroke](https://link.springer.com/article/10.1186/s12984-024-01350-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240409&utm_content=10.1186/s12984-024-01350-9#citeas). J NeuroEngineering Rehabil 21, 51 (2024). https://doi.org/10.1186/s12984-024-01350-9
+**Tulimieri, D.T.**, Semrau, J.A. [Impaired proprioception and magnified scaling of proprioceptive error responses in chronic stroke](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01350-9). J NeuroEngineering Rehabil 21, 51 (2024). https://doi.org/10.1186/s12984-024-01350-9
 
 ### 2023
 
