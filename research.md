@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-I am a full stack robotic rehabilitation researcher. 
+I was a full stack robotic rehabilitation researcher. 
 
 ---
 
