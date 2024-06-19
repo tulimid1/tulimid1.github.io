@@ -8,4 +8,4 @@ layout: page
 
 [CV](Tulimieri_CV_06_19_2024.pdf)
 
-Last updated on March 21, 2024
+Last updated on June 19, 2024
