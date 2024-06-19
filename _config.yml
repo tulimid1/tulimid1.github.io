@@ -1,6 +1,6 @@
 title: "Duncan Tulimieri"
 author: "Duncan Tulimieri"
-description: "University of Delaware"
+description: "New Age Alpha"
 
 permalink: /:title/
 lang: "en"
@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "freeduncan.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail,           icon: envelope,       url: "mailto:tulimid@udel.edu"}
+  - {title: Mail,           icon: envelope,       url: "mailto:duncan.tulimieri7@gmail.com"}
   - {title: Github,         icon: github,         url: "https://github.com/tulimid1/"}
   - {title: LinkedIn,       icon: linkedin,       url: "https://www.linkedin.com/in/duncan-tulimieri"}
   - {title: UpWork,         icon: briefcase,      url: "https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1"}
