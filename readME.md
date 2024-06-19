@@ -43,6 +43,6 @@ Osciallting Air I Enjoy:
 
 ## Education
 
-[University of Delaware](https://www.udel.edu/): [Biomechanics and Movement Science](https://sites.udel.edu/bioms/) (PhD [current])
+[University of Delaware](https://www.udel.edu/): [Biomechanics and Movement Science](https://sites.udel.edu/bioms/) (PhD [completed])
  
 [Denison University](https://denison.edu/): [Health, Exercise, and Sports Studies](https://denison.edu/academics/health-exercise-sport-studies) and [Biology](https://denison.edu/academics/biology) (Bachelors [completed])
