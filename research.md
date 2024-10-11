@@ -50,6 +50,8 @@ Hortz, B. V., Falsone, S., & **Tulimieri, D.** (2019). [Current Athletic Trainin
 
 ### 2024
 
+**Tulimieri, D. T.** (2024, September). *How to Use AI to be a Better Programmer* [Panelist]. Reproducible Rehabilitation Research Summit - ReproRehab, University of Southern California. 
+
 McCartney, K., **Tulimieri, D. T.**, Pohlig, R., Reisman, D. (2024, April). *Are there Differences in Walking Exercise Dose between Subgroups of People with Chronic Stroke?* [Poster Presentation]. American Society of Neurorehabilitation.
 
 **Tulimieri, D. T.**, Kim, G., Sergi, F., Semrau, J. A. (2024, March). *Targeted training of proprioception using an integrated robotic-joystick approach improves sensorimotor function in chronic stroke* [Poster presentation]. College of Health Sciences Research Day, University of Delaware. 
