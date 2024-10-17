@@ -26,7 +26,7 @@ Table of Contents:
 
 ### 2024
 
-**Tulimieri, D. T.**, Decarie, A., Singh, T., & Semrau, J. A. (2024). [Impairments in proprioceptively-referenced limb and eye movements in chronic stroke.](https://www.biorxiv.org/content/biorxiv/early/2024/05/10/2024.05.09.593341.full.pdf) bioRxiv, 2024-05.
+**Tulimieri DT**, Decarie A, Singh T, Semrau JA. [Impairments in Proprioceptively-Referenced Limb and Eye Movements in Chronic Stroke.](https://doi.org/10.1177/15459683241289123) Neurorehabilitation and Neural Repair. 2024;0(0). [doi:10.1177/15459683241289123](https://doi.org/10.1177/15459683241289123)
 
 **Tulimieri, D.T.**, Semrau, J.A. [Impaired proprioception and magnified scaling of proprioceptive error responses in chronic stroke](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01350-9). J NeuroEngineering Rehabil 21, 51 (2024). https://doi.org/10.1186/s12984-024-01350-9
 
