@@ -8,6 +8,16 @@ Here are links to some of the projects I have done as a freelancer on [UpWork](h
 
 ---
 
+## 2024
+
+[Energy Modelling in Python](https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1)
+
+> Updated code to use open-source solver (Pyomo) and extended functionality
+
+MATLAB Tutoring
+
+> Held bi-weekly tutoring sessions on better programming practices for MATLAB (simulations, optimization, vectorization, efficient processes, pipeline analyses, etc)
+
 ## 2023
 
 [FinTech Algorithm Rewrite (MATLAB to Python)](https://www.upwork.com/freelancers/~016adcf90a250f8ad2?viewMode=1)
