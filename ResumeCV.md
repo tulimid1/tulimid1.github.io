@@ -4,8 +4,8 @@ permalink: "/ResumeCV/"
 layout: page
 ---
 
-[Resume](Tulimieri_Resume_12_13_24.pdf)
+[Resume](Tulimieri_Resume_03_28_25.pdf)
 
 [CV](Tulimieri_CV_06_19_2024.pdf)
 
-Last updated on December 13, 2024
+Last updated on March 28, 2025
